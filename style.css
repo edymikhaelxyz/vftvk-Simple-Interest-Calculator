@@ -3,7 +3,9 @@ body {background-color:black;
     color:white
 }
 h1{color:grey;
-    font-family:verdana}
+    font-family:verdana;
+    text-align: center; 
+}
 
 .maindiv {
     background:border-box white;
